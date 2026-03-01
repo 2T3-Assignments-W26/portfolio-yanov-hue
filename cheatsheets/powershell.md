@@ -19,7 +19,7 @@
 | Manage processes        | `Get-Process`, `Stop-Process`      |                    |
 | Manage services         | `Get-Service`, `Start-Service`     |                    |
 
-<!-- commenty-->
+<!-- sdasdasdsad-->
 
 ## About PowerShell
 
