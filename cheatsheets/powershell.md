@@ -69,12 +69,13 @@ _( From the [interview](https://evrone.com/blog/jeffrey-snover-interview) with J
 
 ### Basic Commands to Get Started
 
-- `*Get-Command*`: Lists all available commands.
-- `*Get-Help*`: Provides help information for commands.
-- `*Get-Process*`: Displays all running processes.
-- `*Stop-Process*`: Stops a specific process.
-- `*Set-Location*`: Changes the current directory (like `cd` in Command Prompt).
-- `*New-Item*`: Creates a new file or directory.
+- `**Get-Command**`: Lists all available commands.
+- `**Get-Help**`: Provides help information for commands.
+- `**Get-Process**`: Displays all running processes.
+- `**Stop-Process**`: Stops a specific process.
+- `**Set-Location**`: Changes the current directory (like `cd` in Command Prompt).
+- `**New-Item**`: Creates a new file or directory.
+- `**Get-Content**`: Gets contents of a file.
 
 ### Example Script
 
