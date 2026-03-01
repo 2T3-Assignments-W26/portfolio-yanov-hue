@@ -19,6 +19,8 @@
 | Manage processes        | `Get-Process`, `Stop-Process`      |                    |
 | Manage services         | `Get-Service`, `Start-Service`     |                    |
 
+<!-- redo-->
+
 ## About PowerShell
 
 [**PowerShell**](./https://docs.microsoft.com/en-us/powershell/) is a powerful command-line shell and scripting language developed by Microsoft. It is designed to help users automate tasks, manage systems, and perform administrative tasks efficiently. Built on the [.NET framework](https://learn.microsoft.com/en-us/dotnet/framework/get-started/overview), **PowerShell** is both a **_command-line tool_** and **_a scripting environment_**, making it a versatile tool for programmers and system administrators.
