@@ -76,6 +76,7 @@ _( From the [interview](https://evrone.com/blog/jeffrey-snover-interview) with J
 - `**Set-Location**`: Changes the current directory (like `cd` in Command Prompt).
 - `**New-Item**`: Creates a new file or directory.
 - `**Get-Content**`: Gets contents of a file.
+- `**Add-Content**`: **Appends content, such as words or data, to a file.**
 
 ### Example Script
 
