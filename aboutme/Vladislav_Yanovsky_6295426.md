@@ -7,6 +7,9 @@ resume.md                                                                       
 
 ## Professional Summary 
 Attentive student from John Abbott's Computer Science program, knowledgable and specialized in beginner level c# coding, technical support and avide learner of html and css along with markdown for website creation.  
+>Congradulations I am pleased to inform you that you have been named to the Dean's list 
+
+-Charbel Mourad
 
 ## Work History 
 **Busser for Kassie's Bistro** 100 Sainte Anne St, Sainte-Anne-de-Bellevue 
