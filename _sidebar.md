@@ -5,4 +5,6 @@
   - [Git](cheatsheets/git.md)
   - [PowerShell](cheatsheets/powershell.md)
 
-- About Me
+- About Me 
+  - [Vladislav Yanovsky](aboutme/Vladislav_Yanovsky_6295426.md) 
+  - [My Projects](aboutme/myProjects.md)
